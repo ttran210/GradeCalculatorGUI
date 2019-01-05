@@ -1,2 +1,2 @@
 # GradeCalculatorGUI
-Java code for final grade calculator GUI
+Javafx code that builds a GUI to calculate what a student needs on their final exam
